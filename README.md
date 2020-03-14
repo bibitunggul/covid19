@@ -14,11 +14,11 @@ pkg install php
 pkg  isntall git 
 
 
-git clone https://github.com/andreteam/andre13
+git clone https://github.com/bibitunggul/covid19
 
 
 
-cd andre13
+cd covid19
 
 
-php andre.php
+php corona.php
